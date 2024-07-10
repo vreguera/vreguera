@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on future 3D projects.
 - 📫 How to reach me: https://es.linkedin.com/in/v%C3%ADctor-reguera-81a295129
-- 😄 Pronouns: ...
 - ⚡ Fun fact: I am not that funny yet, sorry :D
 
 <!---
